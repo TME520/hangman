@@ -28,4 +28,7 @@ Wine is probably the best option to safely experience *Hangman* on Linux:
 1. Load a dictionnary file (*Dictionnaire | Charger*). There are 4 difficulty levels (*Beginner*, *Knight*, *King*, *God*), I suggest you start with something easy,
 2. You now have 10 tries to guess a word picked by the computer,
 3. If you succeed, you have to guess the next word from the dictionnary and so on.
+
+
+
 [^1]: I was already nicknamed TME in 2000; that name dates back from 1998 and was chosen mostly because these 3 letters looked nice in high score tables. The number 520 (and sometimes 1040) is a later addition from around 2004 and is a reference to the almighty Atari 520STe. Now you're truly a (wo)man of culture.
